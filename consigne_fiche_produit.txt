@@ -1,0 +1,5 @@
+1 : Inclure les éléments importants
+2 : Vérifier s'il y a id dans l'URL (sinon redirection vers la boutique)
+3 : Récupérer les infos du produit dont l'id est dans l'URL
+4 : Si le produit existe alors afficher les infos du produit dans la page sinon redirection vers la boutique
+5 : Afficher le stock disponible. Si pas de stock afficher 'Rupture de stock !!'
